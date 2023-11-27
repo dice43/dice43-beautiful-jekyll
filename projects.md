@@ -17,7 +17,7 @@ Record_Receipts is an app that can be used to track a user’s budget across man
 **Skills Used:** Java, OCR(Optical Character Recognition), Android/Android Studio
 
 ## [internetCookbook](https://github.com/dice43/internetCookbook)
-internetCookbook is a website that interacts with a recipe API to generate recipes based on a user's search. Users can save recipes to their account for viewing later. Account information is obfuscated using SALT and Hasing to protect users' private information. Project was created in under 2 weeks in collaboration with a group for the SEO Tech Developer program. Website incorporates the use of Heroku and Flask. 
+internetCookbook is a website that interacts with a recipe API to generate recipes based on a user's search. Users can save recipes to their account for viewing later. Account information is obfuscated using salt and hashing to protect users' private information. Project was created in under 2 weeks in collaboration with a group for the SEO Tech Developer program. Website incorporates the use of Heroku and Flask. 
 
 **Skills Used:** Python, Heroku, Flask, HTML, CSS, SQL, REST APIs
 

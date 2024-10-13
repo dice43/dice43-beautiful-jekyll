@@ -1,0 +1,26 @@
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241013-36976-pu3k9q sitelibdir\=./.gem.20241013-36976-pu3k9q clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241013-36976-pu3k9q sitelibdir\=./.gem.20241013-36976-pu3k9q
+generating ruby_http_parser-x64-mingw-ucrt.def
+bash.exe: warning: could not find /tmp, please create!
+compiling ruby_http_parser.c
+bash.exe: warning: could not find /tmp, please create!
+compiling ryah_http_parser.c
+bash.exe: warning: could not find /tmp, please create!
+linking shared-object ruby_http_parser.so
+
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241013-36976-pu3k9q sitelibdir\=./.gem.20241013-36976-pu3k9q install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20241013-36976-pu3k9q
+
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241013-36976-pu3k9q sitelibdir\=./.gem.20241013-36976-pu3k9q clean
+bash.exe: warning: could not find /tmp, please create!

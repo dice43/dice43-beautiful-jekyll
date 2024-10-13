@@ -1,0 +1,24 @@
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241013-36976-q93a0x sitelibdir\=./.gem.20241013-36976-q93a0x clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241013-36976-q93a0x sitelibdir\=./.gem.20241013-36976-q93a0x
+generating fastfilereaderext-x64-mingw-ucrt.def
+bash.exe: warning: could not find /tmp, please create!
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241013-36976-q93a0x sitelibdir\=./.gem.20241013-36976-q93a0x install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20241013-36976-q93a0x
+
+current directory: C:/Users/mjcoq/Desktop/dice43-beautiful-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241013-36976-q93a0x sitelibdir\=./.gem.20241013-36976-q93a0x clean
+bash.exe: warning: could not find /tmp, please create!

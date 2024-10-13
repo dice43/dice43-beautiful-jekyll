@@ -4,6 +4,11 @@ title: Projects
 subtitle: These are the projects that I've worked on
 ---
 
+## [Auto_Cue](https://github.com/dice43/autoCue)
+AutoCue is a program that allows users to automatically set cue points in the Serato DJ software. THe program takes advantage of keyboard shortcuts to automate this.
+
+**Skills Used:** Python
+
 ## [leaf_highlight](https://github.com/dice43/leaf_highlight)
 leaf_highlight is a program that takes android screenshots and xml metadata dumps from android's UIAutomator Framework and uses them to highlight the leaf-level GUI components that are present in the xml files. The program outputs screenshots with these leaf components highlighted by yellow rectangles. Program is written in Python. Written for a school assignment from scratch.
 

@@ -5,10 +5,12 @@ title: Hi, I'm Miguel
 
 ## About Me
 
-I received my B.S. in Computer Science from the College of William & Mary <img src="/assets/img/wmlogo.png" alt="WM" style="height:1.5em;"> in May 2024.
+Hi, my name is Miguel Jones! I am a computer science graduate from the William & Mary who has always been fascinated by learning about new technology and experimenting with it to understand its inner workings. 
+With how dependent we have become on technology in our daily lives, I often find myself asking why certain things work. 
+How is our connectivity so fast all the time?, Why is that program so efficient?, etc. 
 
-I have learned a great deal about topics in software engineering such as, multiple programming languages, APIs, SQL/Databases, Frontend frameworks (REACT & FLASK), and much more through my work with SEO <img src="/assets/img/seologo.png" alt="SEO" style="height:1.5em;"> during their tech development(2021) and open source development(2022) programs respectively.
+I am proficient in programming web-based applications and have extensive experience working with JavaScript, React, and CSS/HTML. I enjoy finding new ways to improve enjoyment for users interacting with websites. 
+I had the opportunity to develop my skills in this area through the tech developer internship with SEO and in my work as a web designer. 
+I have also gained knowledge of how networks function and the security practices necessary to keep them safe from malicious actors. 
+This knowledge has served me well in becoming certified by CompTIA, passing the Network+ and Security+ exams.
 
-I have worked on other notable projects in school such as the Galeras benchmark tool and a dungeon crawler RPG named "Escape the Colonial Crypt."
-
-When I'm not working on different projects I like to work out, dance, read, and cook.

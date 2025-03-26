@@ -5,7 +5,7 @@ subtitle: These are the projects that I've worked on
 ---
 
 ## [Auto_Cue](https://github.com/dice43/autoCue)
-AutoCue is a program that allows users to automatically set cue points in the Serato DJ software. THe program takes advantage of keyboard shortcuts to automate this.
+AutoCue is a program that allows users to automatically set cue points in the Serato DJ software. The program takes advantage of keyboard shortcuts to automate this.
 
 **Skills Used:** Python
 
